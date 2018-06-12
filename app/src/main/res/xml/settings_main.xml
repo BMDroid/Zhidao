@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    android:title="@string/settings_title">
+
+    <CheckBoxPreference
+        android:key="@string/worldwide"
+        android:title="@string/worldwide"
+        android:defaultValue="false"/>
+
+    <CheckBoxPreference
+        android:key="@string/us"
+        android:title="@string/us"
+        android:defaultValue="false"/>
+
+    <CheckBoxPreference
+        android:key="@string/china"
+        android:title="@string/china"
+        android:defaultValue="false"/>
+
+
+    <CheckBoxPreference
+        android:key="@string/google"
+        android:title="@string/google"
+        android:defaultValue="true"/>
+
+    <CheckBoxPreference
+        android:key="@string/apple"
+        android:title="@string/apple"
+        android:defaultValue="false"/>
+
+    <CheckBoxPreference
+        android:key="@string/movie"
+        android:title="@string/movie"
+        android:defaultValue="false"/>
+
+    <CheckBoxPreference
+        android:key="@string/music"
+        android:title="@string/music"
+        android:defaultValue="false"/>
+
+    <CheckBoxPreference
+        android:key="@string/nba"
+        android:title="@string/nba"
+        android:defaultValue="false"/>
+
+    <CheckBoxPreference
+        android:key="@string/nfl"
+        android:title="@string/nfl"
+        android:defaultValue="false"/>
+
+</PreferenceScreen>
