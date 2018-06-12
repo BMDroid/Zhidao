@@ -14,7 +14,5 @@ This is one of the projects of Android Basics Nanodegree by Google on Udacity. A
 1. Design the main activity of the application.
 2. Choose what information to be showed to the viewers.
 3. Viewers can choose the different kinds of the news to fit their preference.
-
- ![](https://github.com/BMDroid/Zhidao/blob/master/screenShots/list.png)
  
- <img src="https://github.com/BMDroid/Zhidao/blob/master/screenShots/list.png" height="24">
+ <img src="https://github.com/BMDroid/Zhidao/blob/master/screenShots/list.png" height="200">
