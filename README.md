@@ -16,6 +16,6 @@ This is one of the projects of Android Basics Nanodegree by Google on Udacity. A
 3. Viewers can choose the different kinds of the news to fit their preference.
  
 <p align="center">
-    <img src="https://github.com/BMDroid/Zhidao/blob/master/screenShots/list.png" height="50%">
+    <img src="https://github.com/BMDroid/Zhidao/blob/master/screenShots/list.png" width="50%">
 </p>                                                                                                
 <br/>
