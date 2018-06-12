@@ -15,13 +15,7 @@ This is one of the projects of Android Basics Nanodegree by Google on Udacity. A
 2. Choose what information to be showed to the viewers.
 3. Viewers can choose the different kinds of the news to fit their preference.
  
- <img src="https://github.com/BMDroid/Zhidao/blob/master/screenShots/list.png" height="600">
- 
 <p align="center">
-    <img src="https://github.com/BMDroid/Zhidao/blob/master/screenShots/list.png" height="600"">
-</p>
-                                                                                                 
-<p align="center">
-    <img src="https://raw.githubusercontent.com/SvenTiigi/STLocationRequest/gh-pages/readMeAssets/STLocationRequest_Logo.png" alt="Logo" width="30%">
-</p>
+    <img src="https://github.com/BMDroid/Zhidao/blob/master/screenShots/list.png" height="50%">
+</p>                                                                                                
 <br/>
