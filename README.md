@@ -1,4 +1,8 @@
 # Zhidao
+<p align="center">  <img src="https://github.com/BMDroid/Zhidao/blob/master/screenShots/icon.png" width="50%">
+</p>                                                                                                
+<br/>
+
 An Android news application. Zhidao is the “Knowing” in Chinese. 
 
 This is one of the projects of Android Basics Nanodegree by Google on Udacity. And this project is aim to deal with the JSON object.
@@ -14,8 +18,18 @@ This is one of the projects of Android Basics Nanodegree by Google on Udacity. A
 1. Design the main activity of the application.
 2. Choose what information to be showed to the viewers.
 3. Viewers can choose the different kinds of the news to fit their preference.
- 
-<p align="center">
-    <img src="https://github.com/BMDroid/Zhidao/blob/master/screenShots/list.png" width="50%">
+
+### This is the main activity of Zhidao, which shows the news in a plain look
+
+<p align="center">  <img src="https://github.com/BMDroid/Zhidao/blob/master/screenShots/list.png" width="50%">
 </p>                                                                                                
-<br/>
+
+### This is news contents in Zhidao
+
+<p align="center">  <img src="https://github.com/BMDroid/Zhidao/blob/master/screenShots/content.png" width="50%">
+</p>                                                                                                
+
+### In setting, you can choose the topics you are interested in
+
+<p align="center">  <img src="https://github.com/BMDroid/Zhidao/blob/master/screenShots/setting.png" width="50%">
+</p>                                                                                                
