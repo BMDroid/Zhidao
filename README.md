@@ -17,9 +17,9 @@ This is one of the projects of Android Basics Nanodegree by Google on Udacity. A
  
  <img src="https://github.com/BMDroid/Zhidao/blob/master/screenShots/list.png" height="600">
  
-  <p align="center">
-     <iimg src="https://github.com/BMDroid/Zhidao/blob/master/screenShots/list.png" height="600"">
- </p>
+<p align="center">
+    <iimg src="https://github.com/BMDroid/Zhidao/blob/master/screenShots/list.png" height="600"">
+</p>
                                                                                                  
 <p align="center">
     <img src="https://raw.githubusercontent.com/SvenTiigi/STLocationRequest/gh-pages/readMeAssets/STLocationRequest_Logo.png" alt="Logo" width="30%">
